@@ -59,7 +59,7 @@ For development and hackathon evaluation, 4 pre-seeded demo profiles with 1-clic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shubhangikad25-max/Multimodel-Hackathon.git
+git clone https://github.com/mrunali-bhoyar/MultiModelHackathon.git
 cd Multimodel-Hackathon
 ```
 
